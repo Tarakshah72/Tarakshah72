@@ -38,37 +38,30 @@ I enjoy solving practical engineering problems and continuously improving my tec
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-</p>
 
----
 ---
 
 **🚀 Featured Projects**
 
-### Engine Lower Assembly (CREO)
+**Engine Lower Assembly (CREO)**
 3D CAD modeling and assembly of an Engine Lower Assembly using PTC Creo, including component modeling, assembly constraints, and engineering drawings.
 
-➡️ **[View Project](https://github.com/Tarakshah72/Engine-Blower-Assembly-Creo)**
+➡️ **[View Project](https://github.com/Tarakshah72/Engine-Blower-Design-Creo-Parametric-)**
 
 ---
 
-### Centrifugal Clutch Assembly (CREO)
+**Centrifugal Clutch Assembly (CREO)**
 Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part modeling, assembly relationships, and detailed drawings.
 
 ➡️ **[View Project](https://github.com/Tarakshah72/Centrifugal-Clutch-Assembly)**
 
 **💼 Experience**
 
-### Mechanical Engineering Intern | Blue Star Limited
+**Production Opertions Intern** @ Blue Star Limited (May-Jun2026)
 - Assisted in production and manufacturing operations.
 - Gained exposure to HVAC systems, industrial processes, and plant operations.
 
-### Industrial Trainee | DK Engineering Works
+**Mechanical Engineering Intern** | DK Engineering Works (Jun2025)
 - Observed CNC machining, fabrication, and manufacturing processes.
 - Learned quality inspection and production workflow.
 
