@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarak Shah</h1>
+...readme-typing-svg.demolab.com?...&pause=500&lines=Hi+there!+👋;I'm+Tarak+Shah
 
 <h3 align="center">
 Mechanical Engineering Student | Supply Chain & Operations Enthusiast | Learning Data Analytics & Financial Markets
