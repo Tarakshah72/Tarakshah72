@@ -3,9 +3,8 @@
 </h1>
 
 <h3 align="center">
-Mechanical Engineering Student | Supply Chain & Operations Enthusiast | Learning Data Analytics & Financial Markets
+🎓 B.Tech Mechanical Engineering @ Nirma University | Minor in Accounting & Finance
 </h3>
-
 
 
 # 💫 About Me:
