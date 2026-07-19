@@ -11,7 +11,7 @@
 <a href="https://github.com/Tarakshah72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-#🙋 About Me
+<h4>🙋 About Me</h4>
 
 I'm a passionate Mechanical Engineering student with a strong interest in Mechanical Design, Supply Chain Management, Operations, and Industrial Engineering. Currently pursuing B.Tech in Mechanical Engineering with a minor in Accounting & Finance at Nirma University.
 
