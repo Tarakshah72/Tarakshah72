@@ -7,8 +7,15 @@
 </h3>
 
 
-# 💫 About Me:
-Currently working on Data Centre Cooling System Research & CAD Projects<br><br>Interested in Business Operations, Supply Chain, and Financial Markets<br><br>Currently learning HVAC, Inventory Management, and Business Operations<br><br>Ask me about Creo, CAD, Manufacturing, HVAC, and Excel<br><br>Fun fact: I enjoy combining Mechanical Engineering with Business and Finance.
+## 🙋 About Me
+
+I'm a passionate Mechanical Engineering student with a strong interest in Mechanical Design, Supply Chain Management, Operations, and Industrial Engineering. Currently pursuing B.Tech in Mechanical Engineering with a minor in Accounting & Finance at Nirma University.
+
+I enjoy solving practical engineering problems and continuously improving my technical and analytical skills.
+
+- 🌱 Currently learning Lean Manufacturing Concepts and Industrial Engineering Practices
+- ⚙️ Interested in Mechanical Design, Supply Chain, Operations, and Quality Management
+- 🤝 Open to learning, collaborations, and new opportunities
 
 
 ## 🌐 Socials:
@@ -21,4 +28,4 @@ Currently working on Data Centre Cooling System Research & CAD Projects<br><br>I
 ---
 [![](https://komarev.com/ghpvc/?username=Tarakshah72&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
