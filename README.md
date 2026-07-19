@@ -1,4 +1,6 @@
-...readme-typing-svg.demolab.com?...&pause=500&lines=Hi+there!+👋;I'm+Tarak+Shah
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarak+Shah;Mechanical+Engineering+Student;Supply+Chain+%26+Operations+Enthusiast" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
 Mechanical Engineering Student | Supply Chain & Operations Enthusiast | Learning Data Analytics & Financial Markets
