@@ -23,13 +23,14 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-#🛠️ Tech Stack
+<h4>🛠️ Tech Stack</h4>
 
 **Engineering**
+
 <p>
-  <img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANSYS-FFB000?style=for-the-badge&logo=ansys&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Creo_Parametric-0078D7?style=for-the-badge&logo=ptc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HVAC-1E90FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Data & Analytics**
@@ -41,7 +42,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-#🚀 Featured Projects
+<h4>🚀 Featured Projects</h4>
 
 **Engine Lower Assembly (CREO)**
 3D CAD modeling and assembly of an Engine Lower Assembly using PTC Creo, including component modeling, assembly constraints, and engineering drawings.
@@ -55,7 +56,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ➡️ **[View Project](https://github.com/Tarakshah72/Centrifugal-Clutch-Assembly)**
 
-#**💼 Experience**
+<h4>💼 Experience</h4>
 
 **Production Opertions Intern** @ Blue Star Limited (May-Jun2026)
 - Assisted in production and manufacturing operations.
@@ -67,7 +68,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-#**🏆 Certifications**
+<h4>🏆 Certifications</h4>
 
 - NISM Investor Awareness Certification
 - Microsoft Excel
@@ -78,7 +79,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-#**📊 GitHub Stats**
+<h4>📊 GitHub Stats</h4>
 
 <p align="center">
 
