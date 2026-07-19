@@ -11,7 +11,7 @@
 <a href="https://github.com/Tarakshah72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<h4>🙋 About Me</h4>
+<h3>🙋 About Me</h3>
 
 I'm a passionate Mechanical Engineering student with a strong interest in Mechanical Design, Supply Chain Management, Operations, and Industrial Engineering. Currently pursuing B.Tech in Mechanical Engineering with a minor in Accounting & Finance at Nirma University.
 
@@ -23,7 +23,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-<h4>🛠️ Tech Stack</h4>
+<h3>🛠️ Tech Stack</h3>
 
 **Engineering**
 
@@ -42,7 +42,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-<h4>🚀 Featured Projects</h4>
+<h3>🚀 Featured Projects</h3>
 
 **Engine Lower Assembly (CREO)**
 3D CAD modeling and assembly of an Engine Lower Assembly using PTC Creo, including component modeling, assembly constraints, and engineering drawings.
@@ -56,7 +56,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ➡️ **[View Project](https://github.com/Tarakshah72/Centrifugal-Clutch-Assembly)**
 
-<h4>💼 Experience</h4>
+<h3>💼 Experience</h3>
 
 **Production Opertions Intern** @ Blue Star Limited (May-Jun2026)
 - Assisted in production and manufacturing operations.
@@ -68,7 +68,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-<h4>🏆 Certifications</h4>
+<h3>🏆 Certifications</h3>
 
 - NISM Investor Awareness Certification
 - Microsoft Excel
@@ -79,7 +79,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-<h4>📊 GitHub Stats</h4>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
 
@@ -91,6 +91,6 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tarakshah72&icon=0&color=0)](https://visitcount.itsvg.in)
+🚀 Always learning, always building, always improving.
 
 
