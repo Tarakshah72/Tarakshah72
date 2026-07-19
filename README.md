@@ -5,7 +5,11 @@
 <h4 align="center">
 🎓 B.Tech Mechanical Engineering @ Nirma University | Accounting & Finance
 </h4>
-
+<p align="center">
+<a href="mailto:shahtarak593@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/tarakmshah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Tarakshah72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 **🙋 About Me**
 
@@ -18,7 +22,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 - 🤝 Open to learning, collaborations, and new opportunities
 
 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tarakmshah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahtarak593@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tarakshah72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
