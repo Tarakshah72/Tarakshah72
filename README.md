@@ -81,18 +81,13 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 **📊 GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tarakshah72&show_icons=true&theme=tokyonight"/>
+
 <br><br>
 <img src="https://streak-stats.demolab.com?user=Tarakshah72&theme=tokyonight"/>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarakshah72&layout=compact&theme=tokyonight"/>
+
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tarakshah72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tarakshah72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tarakshah72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tarakshah72&icon=0&color=0)](https://visitcount.itsvg.in)
