@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🎓 B.Tech Mechanical Engineering @ Nirma University | Minor in Accounting & Finance
+🎓 B.Tech Mechanical Engineering @ Nirma University | Accounting & Finance
 </h3>
 
 
