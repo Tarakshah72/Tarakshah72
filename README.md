@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarak+Shah;Mechanical+Engineering+Student;Supply+Chain+%26+Operations+Enthusiast" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=1200&pause=50&color=00BFFF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarak+Shah" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
 Mechanical Engineering Student | Supply Chain & Operations Enthusiast | Learning Data Analytics & Financial Markets
