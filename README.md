@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=200&color=00BFFF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Tarak+Shah" alt="Typing SVG" />
 </h1>
 
-<h4 align="center">
+<h5 align="center">
 🎓 B.Tech Mechanical Engineering @ Nirma University | Accounting & Finance
-</h4>
+</h5>
 
 
-# 🙋 About Me
+🙋 About Me
 
 I'm a passionate Mechanical Engineering student with a strong interest in Mechanical Design, Supply Chain Management, Operations, and Industrial Engineering. Currently pursuing B.Tech in Mechanical Engineering with a minor in Accounting & Finance at Nirma University.
 
