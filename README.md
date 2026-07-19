@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Tarak Shah</h1>
+
+<h3 align="center">
+Mechanical Engineering Student | Supply Chain & Operations Enthusiast | Learning Data Analytics & Financial Markets
+</h3>
+
+
+
 # 💫 About Me:
 Currently working on Data Centre Cooling System Research & CAD Projects<br><br>Interested in Business Operations, Supply Chain, and Financial Markets<br><br>Currently learning HVAC, Inventory Management, and Business Operations<br><br>Ask me about Creo, CAD, Manufacturing, HVAC, and Excel<br><br>Fun fact: I enjoy combining Mechanical Engineering with Business and Finance.
 
