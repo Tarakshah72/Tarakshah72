@@ -21,6 +21,79 @@ I enjoy solving practical engineering problems and continuously improving my tec
 - ⚙️ Interested in Mechanical Design, Supply Chain, Operations, and Quality Management
 - 🤝 Open to learning, collaborations, and new opportunities
 
+---
+
+**🛠️ Tech Stack**
+
+**Engineering**
+<p>
+  <img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANSYS-FFB000?style=for-the-badge&logo=ansys&logoColor=black"/>
+</p>
+
+**Data & Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
+
+---
+---
+
+**🚀 Featured Projects**
+
+### Engine Lower Assembly (CREO)
+3D CAD modeling and assembly of an Engine Lower Assembly using PTC Creo, including component modeling, assembly constraints, and engineering drawings.
+
+➡️ **[View Project](https://github.com/Tarakshah72/Engine-Blower-Assembly-Creo)**
+
+---
+
+### Centrifugal Clutch Assembly (CREO)
+Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part modeling, assembly relationships, and detailed drawings.
+
+➡️ **[View Project](https://github.com/Tarakshah72/Centrifugal-Clutch-Assembly)**
+
+**💼 Experience**
+
+### Mechanical Engineering Intern | Blue Star Limited
+- Assisted in production and manufacturing operations.
+- Gained exposure to HVAC systems, industrial processes, and plant operations.
+
+### Industrial Trainee | DK Engineering Works
+- Observed CNC machining, fabrication, and manufacturing processes.
+- Learned quality inspection and production workflow.
+
+---
+
+**🏆 Certifications**
+
+- NISM Investor Awareness Certification
+- Microsoft Excel
+- HP LIFE – Inventory Management
+- HP LIFE – Sales Forecasting
+- TCS iON – Strategic & Category Management
+- LearnVern – Microsoft Excel
+
+---
+
+**📊 GitHub Stats**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tarakshah72&show_icons=true&theme=tokyonight"/>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=Tarakshah72&theme=tokyonight"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarakshah72&layout=compact&theme=tokyonight"/>
+</p>
 
 
 # 📊 GitHub Stats:
