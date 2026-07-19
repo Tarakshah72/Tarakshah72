@@ -11,7 +11,7 @@
 <a href="https://github.com/Tarakshah72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-**🙋 About Me**
+#**🙋 About Me**
 
 I'm a passionate Mechanical Engineering student with a strong interest in Mechanical Design, Supply Chain Management, Operations, and Industrial Engineering. Currently pursuing B.Tech in Mechanical Engineering with a minor in Accounting & Finance at Nirma University.
 
@@ -23,7 +23,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-**🛠️ Tech Stack**
+#**🛠️ Tech Stack**
 
 **Engineering**
 <p>
@@ -41,7 +41,7 @@ I enjoy solving practical engineering problems and continuously improving my tec
 
 ---
 
-**🚀 Featured Projects**
+#**🚀 Featured Projects**
 
 **Engine Lower Assembly (CREO)**
 3D CAD modeling and assembly of an Engine Lower Assembly using PTC Creo, including component modeling, assembly constraints, and engineering drawings.
@@ -55,7 +55,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ➡️ **[View Project](https://github.com/Tarakshah72/Centrifugal-Clutch-Assembly)**
 
-**💼 Experience**
+#**💼 Experience**
 
 **Production Opertions Intern** @ Blue Star Limited (May-Jun2026)
 - Assisted in production and manufacturing operations.
@@ -67,7 +67,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-**🏆 Certifications**
+#**🏆 Certifications**
 
 - NISM Investor Awareness Certification
 - Microsoft Excel
@@ -78,7 +78,7 @@ Designed and assembled a Centrifugal Clutch in PTC Creo with accurate part model
 
 ---
 
-**📊 GitHub Stats**
+#**📊 GitHub Stats**
 
 <p align="center">
 
